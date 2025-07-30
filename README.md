@@ -22,4 +22,5 @@ yf=yellyfish
 xy=xy-wing
 g=guess
 
-At the point of 'guessing' the C# solver comes in with has a limited version of solving chains. This is still work in progress.
+At the point of 'guessing' the C# solver comes with a limited version of solving chains. This is still work in progress.
+
